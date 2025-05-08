@@ -30,7 +30,7 @@ Here are some highlights of my work:
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Haged-M](www.linkedin.com/in/haged-m/)
+- **LinkedIn:** [Haged-M](https://www.linkedin.com/in/haged-m/)
 ---
 
 ## 🛠️ Tools and Technologies
