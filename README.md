@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Haged Makram Ahmed]
 
-<!--
-**Haged-M/Haged-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I Work On
+
+- **Mobile Development:** Creating user-friendly mobile apps using Flutter and Dart.
+- **UI/UX Design:** Crafting responsive and visually appealing interfaces.
+- **Problem-Solving:** Building solutions that simplify everyday tasks.
+
+---
+
+## 📌 Pinned Repositories
+
+Here are some highlights of my work:
+- [📱 Expenses Tracker](https://github.com/Haged-M/expenses-tracker): A Flutter app to manage and track expenses with automated light/dark themes.
+- [📱 Expenses Tracker](https://github.com/Haged-M/Quiz_App): A Flutter app to deliver an engaging and interactive way to test your knowledge on any device.
+- [📱 Expenses Tracker](https://github.com/Haged-M/Meals): A Flutter app to provid step-by-step instructions and recipes to help you create delicious meals effortlessly.
+
+---
+
+## 🌱 Future Goals
+
+- Enhance my apps with cutting-edge features like real-time data sync and advanced analytics.
+- Contribute to the open-source Flutter ecosystem.
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+---
+
+## 🛠️ Tools and Technologies
+
+- **Languages:** Dart, JavaScript, etc.
+- **Frameworks:** Flutter, etc.
+- **Tools:** VS Code, Android Studio, Git, etc.
