@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Haged Makram Ahmed]
+# Hi there! 👋 I'm Haged Makram Ahmed
 
 Welcome to my GitHub profile! I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
 
@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate **Mobile App Developer** speciali
 
 Here are some highlights of my work:
 - [📱 Expenses Tracker](https://github.com/Haged-M/expenses-tracker): A Flutter app to manage and track expenses with automated light/dark themes.
-- [📱 Expenses Tracker](https://github.com/Haged-M/Quiz_App): A Flutter app to deliver an engaging and interactive way to test your knowledge on any device.
-- [📱 Expenses Tracker](https://github.com/Haged-M/Meals): A Flutter app to provid step-by-step instructions and recipes to help you create delicious meals effortlessly.
+- [📱 Quiz App](https://github.com/Haged-M/Quiz_App): A Flutter app to deliver an engaging and interactive way to test your knowledge on any device.
+- [📱 Meals](https://github.com/Haged-M/Meals): A Flutter app to provid step-by-step instructions and recipes to help you create delicious meals effortlessly.
 
 ---
 
@@ -30,7 +30,7 @@ Here are some highlights of my work:
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/haged-makram-0446a6220)
 ---
 
 ## 🛠️ Tools and Technologies
