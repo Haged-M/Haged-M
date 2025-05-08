@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Haged Makram Ahmed
+# Hi👋 I'm Haged Makram Ahmed
 
-Welcome to my GitHub profile! I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
+I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
 
 ---
 
