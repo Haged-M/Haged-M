@@ -15,7 +15,7 @@ I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy b
 ## 📌 Pinned Repositories
 
 Here are some highlights of my work:
-- [📱 Expenses Tracker](https://github.com/Haged-M/expenses-tracker): A Flutter app to manage and track expenses with automated light/dark themes.
+- [📱 Expenses Tracker](https://github.com/Haged-M/Expenses_Tracker): A Flutter app to manage and track expenses with automated light/dark themes.
 - [📱 Quiz App](https://github.com/Haged-M/Quiz_App): A Flutter app to deliver an engaging and interactive way to test your knowledge on any device.
 - [📱 Meals](https://github.com/Haged-M/Meals): A Flutter app to provid step-by-step instructions and recipes to help you create delicious meals effortlessly.
 
