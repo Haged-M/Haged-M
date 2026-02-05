@@ -1,6 +1,6 @@
 # Hi👋 I'm Haged Makram Ahmed
 
-I'm a passionate **Mobile App Developer** specializing in **Flutter**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
+I'm a passionate **Mobile App Developer** specializing in **Kotlin**. I enjoy building intuitive and high-performing mobile applications with responsive designs and seamless user experiences. 
 
 ---
 
